@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "363798169201",
+    "project_id": "xylophone-2f9da",
+    "storage_bucket": "xylophone-2f9da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363798169201:android:eb86d73a041c67c9963dd0",
+        "android_client_info": {
+          "package_name": "jay.app.flutter.flutter_xylophone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363798169201-ilbcrovaatu7omfv9k4rp2ogdin5k1bo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdad8x_u3bZpPeQhQzugefA4rgd0h7khU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "363798169201-ilbcrovaatu7omfv9k4rp2ogdin5k1bo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363798169201:android:fcc74e2f8bbd26ea963dd0",
+        "android_client_info": {
+          "package_name": "jay.xylophone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363798169201-ilbcrovaatu7omfv9k4rp2ogdin5k1bo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdad8x_u3bZpPeQhQzugefA4rgd0h7khU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "363798169201-ilbcrovaatu7omfv9k4rp2ogdin5k1bo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-8816462531902348~4789158600"
+    }
+  ],
+  "configuration_version": "1"
+}
